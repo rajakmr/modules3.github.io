@@ -1,0 +1,25 @@
+
+*{
+box-sizing: border-box;
+}
+div2{
+background-color: none;
+}
+p{
+width: 30%;
+height: 110px;
+border: 1px solid black;
+margin: 10px;
+margin-bottom: 50px;
+padding: 10px;
+
+}
+#p1{
+background-color: wheat;
+}
+#p2{
+background-color: yellowgreen;
+}
+#p3{
+background-color: pink;
+}
